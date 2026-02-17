@@ -3,4 +3,9 @@ Dumps framebuffer information from a LeapFrog device. Values can be spoofed into
 
 Use a GCC 4.5 uClibc toolchain built with Buildroot-2012.11 on Debian Squeeze.
 
+Compile with this command:
+make CC=arm-buildroot-linux-uclibcgnueabi-gcc
+
+
+
 WIP
